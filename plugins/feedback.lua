@@ -7,11 +7,11 @@ do
  
  
    local text = matches[1]
-   local chat = "chat#id"..97426604 --put your feedback Group ID
+   local chat = "chat#id"..149388878 --put your feedback Group ID
 
    
   local sends = send_msg(chat, fuse, ok_cb, false)
-  return 'Your FeedBack Sent To Our Team Successfully!'
+  return 'پیام شما با موفقیت به ساپورت تیم ارسال شد!'
  
  end
  end
