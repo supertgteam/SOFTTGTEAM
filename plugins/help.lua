@@ -4,7 +4,7 @@ function run(msg, matches)
 
 local mods = [[ 
 راهنما فارسی مدیران :
-@telemanager_ch
+@Soft_TG
 
 !kick [Username | ID | Reply]
 
@@ -23,6 +23,8 @@ local mods = [[
 !lock [ads | name | tag | leave | badw | member | chat | farsi | bots]
 
 !unlock [ads | name | tag | leave | badw | member | chat | farsi | bots]
+
+!settings
 
 !all
 
@@ -65,7 +67,7 @@ member
  local admin = [[ 
  
  راهنمای فارسی ادمین ها :
- @telemanager_ch
+ @Soft_TG
  
  !banall [Reply | ID | Username]
  
@@ -108,7 +110,7 @@ member
  local owner = [[
  
  راهنمای فارسی صاحبان گروه :
- @telemanager_ch
+ @Soft_TG
  
  !promote [Reply | ID | Username]
  
@@ -141,7 +143,7 @@ member
  local member = [[
  
  راهنمای فارسی عضو ها :
- @telemanager_ch
+ @Soft_TG
  
  !calc [formula]
  
@@ -166,9 +168,6 @@ member
  !feedback [msg]
  
  !share
- 
- !telemanagerplus
- 
  !sticker [TXT]
  ==========================
  جهت دریافت راهنمای رنک های دیگر میتوانید از دستورات زیر استفاده کنید :
@@ -187,7 +186,7 @@ member
  local sudo = [[
  
  راهنما فارسی سودو ها :
- @telemanager_ch
+ @Soft_TG
  
  !addadmin [ID | Username]
  
