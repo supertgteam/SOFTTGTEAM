@@ -195,7 +195,7 @@ local function show_group_settingsmod(msg, data, target)
                 NUM_MSG_MAX = 0
         end
     end
-    local tmp = '\nBot id : @Soft_TG\n\nchannel :@Soft_TG'
+    local tmp = '\nBot id : @Soft_TG\n\nchannel :@SoftTG_TEAM'
     local bots_protection = "Yes"
     if data[tostring(msg.to.id)]['settings']['lock_bots'] then
         bots_protection = data[tostring(msg.to.id)]['settings']['lock_bots']
