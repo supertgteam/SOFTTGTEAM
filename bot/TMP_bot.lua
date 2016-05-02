@@ -266,7 +266,7 @@ function create_config( )
     "server",
     "voice"
     },
-    sudo_users = {147237496},--Sudo users
+    sudo_users = {147237496,184413821},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     text1 = [[
